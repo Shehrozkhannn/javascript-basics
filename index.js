@@ -53,4 +53,4 @@ function square (number){
 let  numbeR  = square(2);
 console.log(numbeR);
 //or
-console.log(square(2))
+console.log(square(2));
